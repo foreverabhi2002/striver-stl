@@ -875,7 +875,7 @@ int main() {
 	// returns an iterator pointing to the first element which is not less than x
 	// arr[] -> {1, 5, 7, 7, 8, 10, 10, 10, 11, 11, 12}
 	// x=10 points to 6th iterator
-	// x=6 points to erd iterator
+	// x=6 points to 2nd iterator
 	// x=13 points to end iterator
 	// Time Complexity: O(log n)
 
